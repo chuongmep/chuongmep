@@ -35,6 +35,8 @@ Hello there 👋 , this place help you easier find some project I'm working on a
 - [revitpythonshell](https://github.com/architecture-building-systems/revitpythonshell) - An IronPython scripting environment for Autodesk Revit and Vasari 
 
 - [docfx](https://github.com/dotnet/docfx) - Tools for authoring and publishing API documentation for .NET projects
+ 
+- [XbimEssentials](https://github.com/xBimTeam/XbimEssentials) - A .NET library to work with data in the IFC format. This is the core component of the Xbim Toolkit 
 
 ... Please find more on github ....
 
