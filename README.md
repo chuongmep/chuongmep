@@ -17,7 +17,8 @@ Hello there 👋 , this place help you easier find some project I'm working on a
 
 - [Awesome-Dynamo](https://github.com/chuongmep/Awesome-Dynamo) - Bring all awesome on Dynamo to a Book
 
-- [DA-DynamoRevit](https://github.com/chuongmep/DA-DynamoRevit) - Make Dynamo Revit Possible Implement Design Automation With ACC 
+- [DA-DynamoRevit](https://github.com/chuongmep/DA-DynamoRevit) - Make Dynamo Revit Possible Implement Design Automation With ACC
+- [IFC-To-Excel](https://github.com/chuongmep/Ifc-to-excel) - Convert Metadata IFC format to excel format, freedom with cross platform.
 
 # Project Collaborate
 
