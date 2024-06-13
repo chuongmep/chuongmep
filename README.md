@@ -14,6 +14,8 @@ Hello there 👋 , this place help you easier find some project I'm working on a
 - [OpenMEP](https://github.com/chuongmep/OpenMEP) - A package for MEP, Computational Design, Generative Design inside Dynamo Revit , Sandbox , AutoCAD, Civil3D & more.
 
 - [APSToolkit](https://github.com/chuongmep/aps-toolkit) - A powerful tool to export autodesk platform services interactive data.
+- [APSBot](https://github.com/chuongmep/aps-bot - Explore Data By CLI With Autodesk Platform Services
+- [Acc Urn Details](https://github.com/chuongmep/acc-urn-extension) - Simple extension to snoop detail url Autodesk Construction Cloud 
 
 - [NavisLookup](https://github.com/chuongmep/NavisLookup) - Project support snoop full database support developer navisworks and explore navisworks API.
 
