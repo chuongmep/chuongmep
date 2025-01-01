@@ -17,7 +17,9 @@ Hello there 👋 , this place help you easier find some project I'm working on a
 
 - [APSBot](https://github.com/chuongmep/aps-bot) - Explore Data By CLI With Autodesk Platform Services
 
-- [Revit-Meows](https://github.com/chuongmep/revit-meows) - The project simplifies data extraction from Revit model In ACC use Autodesk Platform Services 
+- [Revit-Meows](https://github.com/chuongmep/revit-meows) - The project simplifies data extraction from Revit model In ACC use Autodesk Platform Services
+
+- [Jupyter Forge](https://github.com/chuongmep/jupyter-forge) - Integrates viewer Autodesk Platform Services with Jupyter Notebooks 
 
 - [revit-extractor](https://github.com/chuongmep/revit-extractor) - An library easy to read data and export revit data from native revit format(.rvt)
  
