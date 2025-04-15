@@ -31,6 +31,9 @@ Hello there 👋 , this place help you easier find some project I'm working on a
 
 - [DA-DynamoRevit](https://github.com/chuongmep/DA-DynamoRevit) - Make Dynamo Revit Possible Implement Design Automation With ACC
 - [IFC-To-Excel](https://github.com/chuongmep/Ifc-to-excel) - Convert Metadata IFC format to excel format, freedom with cross platform.
+- [TreeGen](https://github.com/chuongmep/TreeGen) - Command-line tool written in C# that generates a visual directory tree
+- [RevitMsiBuilderWPF](https://github.com/chuongmep/RevitMsiBuilderWPF) - Make msi install revit add-in in second
+- [RevitAddinMsiCli](https://github.com/chuongmep/RevitAddinMsiBuilder) - Let's deploy msi add-in easier with CLI
 
 # Project Collaborate
 
